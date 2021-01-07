@@ -1,9 +1,4 @@
-# design-pattern-test
-设计模式
-
-test
-
-@[toc]
+# 设计模式
 
 ## 1. 原则
 **开闭原则（Open Close Principle）**
